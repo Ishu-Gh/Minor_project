@@ -1,0 +1,39 @@
+ .box button{
+size: 20px;
+
+margin: 80px;
+margin-top: 100px;
+margin-left: 220px;
+border-radius: 30px;
+display: flex;
+}
+*{
+    background-color: rgb(18, 8, 73);
+}
+.container .box {
+    /* margin: 60px; */
+    display: flex;
+}
+#img3{
+    height: 350px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 390px;
+}
+a{
+    margin: -5px;
+    text-decoration: none;
+    font-size: 50px;
+    border-radius: 60px;
+    color: black;
+    background-color: rgb(44, 77, 11);
+    
+}
+a:hover{
+    font-size: 48px;
+    box-shadow: 32px;
+    color: black;
+    background-color: rgb(75, 120, 7);
+}
+  
+  
